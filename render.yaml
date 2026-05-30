@@ -2,3 +2,4 @@ services:
   - type: web
     name: khmer-tts-bot
     env: docker
+    plan: free
